@@ -12,4 +12,4 @@ for i in plaintext:
     else :
         encryptedText=encryptedText + i
       
-print("The Encrypted Text is : ",encryptedText)
+print("The encrypted sentence is: ", encryptedText)
